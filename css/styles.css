@@ -10,3 +10,10 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+img {
+  display: block;
+  height: 50%;
+  width: 50%;
+  margin-bottom: 15px;
+}
